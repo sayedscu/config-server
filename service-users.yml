@@ -22,7 +22,6 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
 
-  application.name: service-users
   security:
     jwt:
       token:
