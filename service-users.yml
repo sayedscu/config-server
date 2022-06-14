@@ -13,7 +13,7 @@ spring:
   application.name: service-users
   datasource:
     url: jdbc:mysql://localhost:3306/userdb
-    username: rootx
+    username: root
     password:
   jpa:
     hibernate:
