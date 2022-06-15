@@ -13,7 +13,7 @@ spring:
   application.name: service-users
   datasource:
     url: jdbc:mysql://localhost:3306/userdb
-    username: {cipehr}822d75357b8040c8633ce831854ba5aba615fd9e5dc6f5bccc84fec07dd40e66
+    username: '{cipehr}822d75357b8040c8633ce831854ba5aba615fd9e5dc6f5bccc84fec07dd40e66'
     password:
   jpa:
     hibernate:
